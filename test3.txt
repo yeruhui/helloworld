@@ -3,3 +3,4 @@ Test3.txt
 ******************
 
 Hello world!
+Hello world!
